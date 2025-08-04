@@ -1,0 +1,5 @@
+train: ../data/labeled_data/images
+val: ../data/labeled_data/images
+
+nc: 5
+names: ['ba que', 'nazi', 'objects', 'people', 'viet tan']

@@ -1,0 +1,5 @@
+ultralytics
+gradio
+opencv-python-headless
+pyyaml
+tqdm
